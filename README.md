@@ -20,17 +20,17 @@ The main code for the project is located in the `gsd/basic_code` folder, which c
   - **`utils/find_fixed_sample_size.py`**: Used to find the fixed sample size of a design based on Bayesian endpoints.
 
 ### Code for the article itself:
-- **`gsd/bayesian_example/` A folder for outputs of the Bayesian designs in Sections 4 and Section 5.
-  - **`bayesian_example/bayesian_example` The main code script the output and tables for Section 4 and Section 5.
+- **`gsd/bayesian_example/`**: A folder for outputs of the Bayesian designs in Sections 4 and Section 5.
+  - **`bayesian_example/bayesian_example`**: The main code script the output and tables for Section 4 and Section 5.
     This is controlled by uncommenting parts of the code.
-  - **`bayesian_example/section_4_run` Outputs of the code for Section 4.
-  - **`bayesian_example/section_5_run_results` Output files used for Section 5.
+  - **`bayesian_example/section_4_run`**: Outputs of the code for Section 4.
+  - **`bayesian_example/section_5_run_results`**: Output files used for Section 5.
 
-- **`gsd/opt_gs_comparison/` Comparison of our method with OptGS
-  - **`opt_gs_comparison/compare_with_opt_gs.py` A script to compare our method with OptGS.
-  - **`opt_gs_comparison/output_files` output files of a run to get fast statistics.
+- **`gsd/opt_gs_comparison/`**: Comparison of our method with OptGS
+  - **`opt_gs_comparison/compare_with_opt_gs.py`**: A script to compare our method with OptGS.
+  - **`opt_gs_comparison/output_files`**: output files of a run to get fast statistics.
 
-- **`gsd/plot_spending_functions/generate_spending_function_plot.py` Generate Figure 2.
+- **`gsd/plot_spending_functions/generate_spending_function_plot.py`**: Generate Figure 2.
 
 ## Installation
 
